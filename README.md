@@ -1,9 +1,9 @@
 <h1 align="center">
-    Theme Switcher
+    Theme Switcher 🌙🌚
 </h1>
 <img src="assets/demo.gif" />
 <p align="center">
-	Theme Switcher with ReactJS, made based on the video by Rocketseat.
+	Theme Switcher with a Dark Mode, made based on the video by Rocketseat.
 	<br>
   Deployed <a href="https://themeswitch.netlify.app/">here</a>.
 </p>
