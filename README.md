@@ -1,5 +1,5 @@
 <h1 align="center">
-    Theme Switcher 🌙🌚
+    Theme Switcher 🌙🌞
 </h1>
 <img src="assets/demo.gif" />
 <p align="center">
